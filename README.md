@@ -13,7 +13,7 @@
 - C#
 - Solidity
 - PowerShell
-- Azure (Compute, Storage, WAF, AAD, MDM, IaaC, IaM, LB RBAC,...and more)
+- Azure (Compute, Storage, WAF, AAD, MDM, IaaC, IaM, LB, RBAC...and more)
 - AWS (Compute, IaM)
 - GCP (Compute)
 
