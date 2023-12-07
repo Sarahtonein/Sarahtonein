@@ -4,7 +4,7 @@
 
 - Location: Australia 🌐
 - Developer, Blockchain Enthusiast
-- 
+  
 #### 🧰 Languages and Tools
 
 - Python
