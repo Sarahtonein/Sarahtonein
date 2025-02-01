@@ -1,4 +1,4 @@
-### Hi there, I'm @Sarahtonein! 👋
+### Hi there, I'm Sarahtonein! 👋
 
 #### About Me
 
